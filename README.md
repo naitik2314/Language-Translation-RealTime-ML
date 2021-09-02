@@ -19,4 +19,4 @@ In this machine learning project, we will develop a Language Translator App usin
 This project requires you to have a good knowledge of Python, TensorFlow, and Keras.
 
 Modules required for this project are tensorflow, pickle, and sklearn. You can install with the following command:
-`<addr>` pip install tensorflow , pickle , sklearn , numpy `<addr>`
+` pip install tensorflow , pickle , sklearn , numpy `
